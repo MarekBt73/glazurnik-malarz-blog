@@ -1,4 +1,4 @@
 backend:
 -name: test-tepo 
 + name: githube
-+ repo: 
++ repo: MarekBt73/glazurnik-malarz-blog
